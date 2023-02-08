@@ -1,6 +1,7 @@
 .topo {
     display: block;
-    margin-left: 0;
+    margin-left: 96px;
+    margin-top: 0;
 }
 a{
     text-decoration: none;
@@ -9,6 +10,7 @@ a{
     display: inline-block;
     margin-left: 96px;
     font-size: 1em;
+    color: #364959;
  }
 
 h1 {
@@ -57,4 +59,14 @@ hr{
 }
 .menuitem:hover{
     background-color: #81f0d0;
+}
+.menuitem a {
+    color:#364959;
+}
+
+.mainContent {
+    position: relative;
+    margin-left: 96px;
+    padding-left: 96px;
+    background-color: rgb(142, 142, 142);
 }
