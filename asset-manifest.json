@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/dtsProto/static/css/main.b0d3942c.css",
+    "main.js": "/dtsProto/static/js/main.aafa7621.js",
+    "static/js/787.67056b95.chunk.js": "/dtsProto/static/js/787.67056b95.chunk.js",
+    "static/media/material-symbols-rounded.woff2": "/dtsProto/static/media/material-symbols-rounded.98bd6890679b27d0a009.woff2",
+    "static/media/material-symbols-outlined.woff2": "/dtsProto/static/media/material-symbols-outlined.1f06308c9c742543c294.woff2",
+    "static/media/material-symbols-sharp.woff2": "/dtsProto/static/media/material-symbols-sharp.c68a6c2cd04e3a0203ca.woff2",
+    "index.html": "/dtsProto/index.html",
+    "main.b0d3942c.css.map": "/dtsProto/static/css/main.b0d3942c.css.map",
+    "main.aafa7621.js.map": "/dtsProto/static/js/main.aafa7621.js.map",
+    "787.67056b95.chunk.js.map": "/dtsProto/static/js/787.67056b95.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b0d3942c.css",
+    "static/js/main.aafa7621.js"
+  ]
+}
