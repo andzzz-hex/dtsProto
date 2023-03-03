@@ -1,10 +1,13 @@
-
+import PatientTable from "../components/patienttable";
+import { Grid } from "@mui/material";
 export default function Findpatient(){
     return (
-        <div className="appBody">
-            <div className="mainContent">
-            <h1>This is the patient finding page</h1>
-            </div>
-        </div>
+
+        <Grid container  sx={{ width:'895px', flexGrow: 1, marginLeft: '192px', marginTop:'96px'}}>
+            <Grid item xs={12} sx={{display:'inline-block'}}>
+            <PatientTable />                
+            </Grid>
+
+        </Grid>
     )
   }

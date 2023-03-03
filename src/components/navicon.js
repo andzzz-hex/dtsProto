@@ -12,9 +12,9 @@ import { Typography } from '@mui/material';
 
 export default function Navicon(props) {
     return (
-        <div class="menuitem">
+        <div className="menuitem">
         <a href={props.link} >
-        <span class="material-symbols-outlined">{props.icon}</span>
+        <span className="material-symbols-outlined">{props.icon}</span>
         <br/><Typography variant='caption'>{props.label}</Typography>
         </a>
         </div>

@@ -1,4 +1,5 @@
 import React from 'react';
+import "./styles.css";
 import ReactDOM from 'react-dom/client';
 import './styles.css';
 
@@ -10,13 +11,17 @@ import Header from './components/header';
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 
+
+//<Navigation />
+
 root.render(
+
   <React.StrictMode>
-    <Navigation />
-    <Header/> 
-    <BrowserRouter> 
-      <App />
-    </BrowserRouter>
+      <BrowserRouter> 
+          <App />
+      </BrowserRouter>
+
+
   </React.StrictMode>
 )
 
